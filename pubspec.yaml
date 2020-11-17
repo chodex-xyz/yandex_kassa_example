@@ -23,7 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  yandex_kassa: ^1.0.2
+
+  yandex_kassa:
+    git: git@github.com:kcrebound/yandex_kassa.git
 
   http_client: ^1.0.3
 
